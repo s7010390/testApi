@@ -1,0 +1,15 @@
+Log:
+  Level: debug
+  Color: true
+  Json: false
+
+Interface:
+  Enable: true
+  Http:
+    Port: 3000
+    BasePath: /api/v1
+
+System:
+  TimeZone: Asia/Bangkok
+
+
